@@ -1,4 +1,4 @@
-# zx-dev-panel-build-now.gg-cheat-
+# zx-dev-panel
 # ZX Dev Panel 💻
 
 A lightweight in-browser developer console with a hacker-style UI.
